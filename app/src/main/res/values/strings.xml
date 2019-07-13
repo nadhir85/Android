@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Latihan1</string>
+    <string name="game_edukasi_batik_wonosobo">Game Edukasi Batik Wonosobo</string>
+    <string name="belajar">Belajar</string>
+    <string name="bermain">bermain</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="des1">Deskripsi: Batik Carica Lestari merupakan produsen batik pertama di Wonosobo. Motif batik yang dipakai disini merupakan ciri dari khas Wonosobo dengan mengambil bentuk carica dan bentuk tumbuhan purwaceng.\nAlamat: Kebondalem, Talunombo, Sapuran, Kabupaten Wonosobo, Jawa Tengah</string>
+    <string name="Link1">Lokasi: https://goo.gl/maps/PuN1PmjQNajVrmfQ6</string>
+    <string name="todo">TODO</string>
+    <string name="kuis">KUIS</string>
+    <string name="puzzle">PUZZLE</string>
+    <string name="soal1">Gambar diatas merupakan motif batik dari? </string>
+    <string name="Wonosobo">Wonosobo</string>
+    <string name="Pemalang">Pemalang</string>
+    <string name="Solo">Solo</string>
+    <string name="Pekalongan">Pekalongan</string>
+    <string name="info">Game ini dibuat sebagai media pengenalan dan Pembelajaran Batik Khas Wonosobo. \n </string>
+    <string name="auth">Ahmad Nadhir\nTeknik Informatika 2016\n2016150041</string>
+</resources>
